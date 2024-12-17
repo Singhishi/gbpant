@@ -1,0 +1,3 @@
+welcome to the class
+intro to python
+intro to machine learning
